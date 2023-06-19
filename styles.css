@@ -6,8 +6,9 @@ p:first-child{
 	background-color:black;
 	color:rgb(255, 255, 255);
 }
-p:last-child{
-	color:rgb(255, 0, 0);
+
+p:last-child {
+  color: red;
 }
 
 
